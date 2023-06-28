@@ -1,0 +1,12 @@
+__loadDisplayList__68e8d3e9([
+  {
+    "group": "common",
+    "name": "Breeding_bird_survey_trends",
+    "desc": "TRPD Bike Trail Survey proportion sites occupied (blue) vs. MN-23 Breeding Bird Survey abundance index (green). Lines show percent change in each index since the first year with data for both surveys.",
+    "n": 117,
+    "height": 500,
+    "width": 500,
+    "updated": "2023-06-27 23:00:46",
+    "keySig": "c4ea0cd1c22a31ccf7ea6b569d82b261"
+  }
+])
